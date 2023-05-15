@@ -113,7 +113,7 @@ const Home = () => {
   const [question, setQuestion] = useState(1)
   return (
     <div className='text-base flex justify-center items-center h-screen '>
-        <div className='h-[60%] w-[80%] mt-[-64px]'>
+        <div className='h-[60%] w-[90%] mt-[-64px]'>
             <div className='my-9'>
                 <h1 className='font-normal text-2xl'>English Test</h1>
                 <div></div>
