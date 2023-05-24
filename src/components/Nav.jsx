@@ -13,7 +13,7 @@ const Nav = () => {
           </li>
           <li className="basis-1/5">
            
-            <a href="/" className="flex-col flex justify-center items-center text-white gap-2 hover:bg-white hover:text-black p-2 rounded-2xl">
+            <a href="/topic" className="flex-col flex justify-center items-center text-white gap-2 hover:bg-white hover:text-black p-2 rounded-2xl">
                <i className=" bx bx-collection"></i>Topics
             </a>
           </li>
