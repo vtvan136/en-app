@@ -29,8 +29,8 @@ const Home = () => {
     if (arr.indexOf(r) === -1) arr.push(r);
   }
   data.sort(function() { return Math.random() - 0.5 });
-  const [answer, setAnswer] = useState([])
-  const [questions, setQuestions] = useState()
+  //const [answer, setAnswer] = useState([])
+  //const [questions, setQuestions] = useState()
   useEffect((()=>{
     
   }),[])
